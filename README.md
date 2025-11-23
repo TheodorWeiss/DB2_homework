@@ -23,8 +23,8 @@ DB2_homework/
 │   └── product.csv
 │
 ├── sql/
-│   ├── STEP_1.sql
-│   └── STEP_2.sql
+│   ├── Вайс_Федор_STEP_1.sql
+│   └── Вайс_Федор_STEP_2.sql
 │
 └── img/
     ├── ERD.png
@@ -66,7 +66,7 @@ DB2_homework/
 
 ```
 
-sql/STEP_1.sql
+sql/Вайс_Федор_STEP_1.sql
 
 ````
 
